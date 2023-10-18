@@ -1,0 +1,14 @@
+C:\Users\dika5\OneDrive\Dokumen\Ngoding\polygon\polygon\bin\Debug\net6.0\polygon.exe
+C:\Users\dika5\OneDrive\Dokumen\Ngoding\polygon\polygon\bin\Debug\net6.0\polygon.deps.json
+C:\Users\dika5\OneDrive\Dokumen\Ngoding\polygon\polygon\bin\Debug\net6.0\polygon.runtimeconfig.json
+C:\Users\dika5\OneDrive\Dokumen\Ngoding\polygon\polygon\bin\Debug\net6.0\polygon.dll
+C:\Users\dika5\OneDrive\Dokumen\Ngoding\polygon\polygon\bin\Debug\net6.0\polygon.pdb
+C:\Users\dika5\OneDrive\Dokumen\Ngoding\polygon\polygon\obj\Debug\net6.0\polygon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dika5\OneDrive\Dokumen\Ngoding\polygon\polygon\obj\Debug\net6.0\polygon.AssemblyInfoInputs.cache
+C:\Users\dika5\OneDrive\Dokumen\Ngoding\polygon\polygon\obj\Debug\net6.0\polygon.AssemblyInfo.cs
+C:\Users\dika5\OneDrive\Dokumen\Ngoding\polygon\polygon\obj\Debug\net6.0\polygon.csproj.CoreCompileInputs.cache
+C:\Users\dika5\OneDrive\Dokumen\Ngoding\polygon\polygon\obj\Debug\net6.0\polygon.dll
+C:\Users\dika5\OneDrive\Dokumen\Ngoding\polygon\polygon\obj\Debug\net6.0\refint\polygon.dll
+C:\Users\dika5\OneDrive\Dokumen\Ngoding\polygon\polygon\obj\Debug\net6.0\polygon.pdb
+C:\Users\dika5\OneDrive\Dokumen\Ngoding\polygon\polygon\obj\Debug\net6.0\polygon.genruntimeconfig.cache
+C:\Users\dika5\OneDrive\Dokumen\Ngoding\polygon\polygon\obj\Debug\net6.0\ref\polygon.dll
